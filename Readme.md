@@ -1,5 +1,10 @@
 # Resumen Final Algo 1
 
+
+[Versión PDF (recomendado)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/asdolo/algo-1-final/master/Resumen_Final_Algo_1.pdf)
+
+---
+
 # **Especificación de problemas**
 
 ## **¿Qué es especificar un problema?**
